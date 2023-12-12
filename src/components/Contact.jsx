@@ -57,7 +57,7 @@ const Contact = () => {
                                 <div className="flex items-center">
                                     {/* <GlobeAltIcon className="h-6 w-6 mr-5" /> */}
                                     <p className="text-sm">
-                                        <span className="font-bold font-sans">Website: </span>https://istiakhasan.netlify.app/
+                                        <span className="font-bold font-sans">Website: </span>https://my-portfolio-sultan435.vercel.app/
                                     </p>
                                 </div>
                             </div>
